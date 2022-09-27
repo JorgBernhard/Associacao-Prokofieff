@@ -1,0 +1,17 @@
+.Eventos {
+  display: flex;
+  flex-direction: column;
+  background-image: url('../../assets/background04.png');
+  background-size: cover;
+  width: 100vw;
+  height: 100vh;
+}
+.Header-eventos {
+  font-family: 'Cinzel', serif;
+  font-weight: 500;
+  font-size: 3rem;
+  color: rgb(144, 43, 43);
+
+  margin-left: 10rem;
+  margin-top: 5rem;
+}
